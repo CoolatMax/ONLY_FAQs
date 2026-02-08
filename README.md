@@ -19,11 +19,9 @@ I treat FAQs as a living extension of the product. My goal is to anticipate user
 
 ## 🚀 All FAQs created by me for different projects
 
-1.
-
-2.
-
-3.  
+1. Create FAQ page for common user questions: https://github.com/aadorian/ProtegeDesk/pull/198
+2. docs:Add Help/FAQ page: https://github.com/allyourbeta/tilespace/pull/23
+3. docs: create FAQ section and link to README: https://github.com/OperationsPAI/OperationsPAI.github.io/pull/8
 
 ## 🛠 FAQ Architecture & Tools 
 
