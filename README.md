@@ -1,5 +1,9 @@
 # ❓ FAQ Documentation Portfolio
 
+<p align="center">
+<img src="https://github.com/user-attachments/assets/03d96e92-2070-4d2a-9df3-00ca8caa8cb4" width="800" alt="Search & Find">
+</p>
+
 ### _Converting common friction points into self-service solutions._
 
 ## 📌 Philosophy
